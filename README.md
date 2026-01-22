@@ -73,7 +73,7 @@ Instead of using the default 0.5 classification threshold:
 
 * Optimized threshold to minimize expected business loss
 
-* Selected a lower threshold (~0.3–0.4) to capture more churners
+* Selected a lower threshold (0.15) to capture more churners
 
 This improved churn capture while significantly reducing financial loss.
 
